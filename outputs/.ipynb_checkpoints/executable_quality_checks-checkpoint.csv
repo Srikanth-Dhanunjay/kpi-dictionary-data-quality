@@ -1,0 +1,10 @@
+Column,Missing_Count,Invalid_Count,Status
+order_id,0,0,PASS
+order_date,1,2,FAIL
+customer_segment,0,0,PASS
+city,1,0,FAIL
+category,0,0,PASS
+quantity,0,2,FAIL
+unit_price,0,0,PASS
+discount_pct,1,1,FAIL
+payment_status,0,0,PASS

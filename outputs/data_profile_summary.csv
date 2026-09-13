@@ -1,0 +1,6 @@
+Dimension,Finding
+Completeness,"order_date, city and discount_pct contain missing values"
+Uniqueness,RT-1004 appears twice
+Validity,"Invalid quantity (-1, two), discount (105), and date (2026-13-10)"
+Consistency,"Student/student, Paid/paid, and mixed date formats"
+Freshness,Data ranges from 2026-01-03 to 2026-01-18
